@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![drxxmy's Stats](https://github-readme-stats.vercel.app/api?username=drxxmy&theme=default&show_icons=true&hide_border=false&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+
 <!--
 **drxxmy/drxxmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
