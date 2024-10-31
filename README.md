@@ -1,32 +1,24 @@
 # Hey, I'm Vladislav (Dreamy)! 👋
 
-I'm computer science student and I absolutely love programming and learning new technologies. For now I know:
+I'm computer science student and I absolutely love programming and learning new technologies.
 
-- Python
-- HTML, CSS
-- Markdown
-- JS
-- PHP
-- Bash
-- SQL
-- Lua
-- C++
+Currently exploring depths of Linux and Rust. Make sure to check out my repositories!
 
-I got a chance to work with:
+## My skills:
 
-- Docker
-- Laravel
-- Angular
-- Vue
-- TailwindCSS
-- SQlite
-- SQL Server
-- StarUML
-- Git
+### Languages
 
-Currently I'm exploring depths of Linux and OSS. Don't hesitate to take a look at my repositories! :D
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py,cpp,rust,bash,lua&perline=5)](https://skillicons.dev)
 
-# My Github stats
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=arch,neovim,docker,git,npm,sqlite)](https://skillicons.dev)
+
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=angular,laravel,django,tailwind,vue)](https://skillicons.dev)
+
+## My Github stats
 
 ![drxxmy's Stats](https://github-readme-stats.vercel.app/api?username=drxxmy&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
