@@ -1,8 +1,8 @@
 # Hey, I'm Vladislav (Dreamy)! 👋
 
-I'm computer science student and I absolutely love programming and learning new technologies.
+I absolutely love programming and learning new technologies.
 
-Currently exploring depths of Linux and Rust. Make sure to check out my repositories!
+Currently exploring depths of Linux. Make sure to check out my repositories!
 
 ## My skills:
 
