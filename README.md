@@ -14,7 +14,7 @@ Currently exploring depths of Linux. Make sure to **check out my repositories**!
 
 [![Tools](https://skillicons.dev/icons?i=git,linux,github,docker,vscode,neovim)](https://skillicons.dev)
 
-## My GitHub stats
+## My GitHub stats:
 
 ### 📈 Statistics
 ![drxxmy's Stats](https://github-readme-stats.vercel.app/api?username=drxxmy&show_icons=true&count_private=true&theme=transparent)
